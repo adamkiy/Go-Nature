@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net" modified="2024-02-24T12:11:18.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="-xvdLr7DWtRz1Ny3bNHL" version="23.1.5" type="device">
+  <diagram name="‫עמוד-1‬" id="FfZaru-9XFL5g2GbekI0">
+    <mxGraphModel dx="860" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sjAFi1lPdT4_HpGg-h6E-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gQkO4-co55hAgo9uWCJa-1" target="sjAFi1lPdT4_HpGg-h6E-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjAFi1lPdT4_HpGg-h6E-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gQkO4-co55hAgo9uWCJa-1" target="sjAFi1lPdT4_HpGg-h6E-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjAFi1lPdT4_HpGg-h6E-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gQkO4-co55hAgo9uWCJa-1" target="sjAFi1lPdT4_HpGg-h6E-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gQkO4-co55hAgo9uWCJa-1" value="&lt;div style=&quot;direction: rtl; font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;2. כתיבת שאלות&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;textDirection=rtl;fontSize=15;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="280" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjAFi1lPdT4_HpGg-h6E-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gQkO4-co55hAgo9uWCJa-3" target="sjAFi1lPdT4_HpGg-h6E-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjAFi1lPdT4_HpGg-h6E-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gQkO4-co55hAgo9uWCJa-3" target="sjAFi1lPdT4_HpGg-h6E-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjAFi1lPdT4_HpGg-h6E-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gQkO4-co55hAgo9uWCJa-3" target="sjAFi1lPdT4_HpGg-h6E-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gQkO4-co55hAgo9uWCJa-3" value="&lt;div style=&quot;direction: rtl; font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;3. הרכבת המבחן&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;textDirection=rtl;fontSize=15;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="460" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjAFi1lPdT4_HpGg-h6E-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gQkO4-co55hAgo9uWCJa-4" target="sjAFi1lPdT4_HpGg-h6E-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjAFi1lPdT4_HpGg-h6E-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gQkO4-co55hAgo9uWCJa-4" target="sjAFi1lPdT4_HpGg-h6E-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjAFi1lPdT4_HpGg-h6E-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gQkO4-co55hAgo9uWCJa-4" target="sjAFi1lPdT4_HpGg-h6E-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gQkO4-co55hAgo9uWCJa-4" value="&lt;div style=&quot;direction: rtl; font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;4. הערכה וניתוח&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;textDirection=rtl;fontSize=15;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="640" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjAFi1lPdT4_HpGg-h6E-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gQkO4-co55hAgo9uWCJa-5" target="sjAFi1lPdT4_HpGg-h6E-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjAFi1lPdT4_HpGg-h6E-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gQkO4-co55hAgo9uWCJa-5" target="sjAFi1lPdT4_HpGg-h6E-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjAFi1lPdT4_HpGg-h6E-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gQkO4-co55hAgo9uWCJa-5" target="sjAFi1lPdT4_HpGg-h6E-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjAFi1lPdT4_HpGg-h6E-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gQkO4-co55hAgo9uWCJa-5" target="sjAFi1lPdT4_HpGg-h6E-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gQkO4-co55hAgo9uWCJa-5" value="&lt;div style=&quot;direction: rtl; font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;1. תכנון המבחן&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;textDirection=rtl;fontSize=15;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="100" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gQkO4-co55hAgo9uWCJa-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;textDirection=rtl;fontSize=15;strokeWidth=2;" parent="1" source="gQkO4-co55hAgo9uWCJa-7" target="gQkO4-co55hAgo9uWCJa-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gQkO4-co55hAgo9uWCJa-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;textDirection=rtl;fontSize=15;strokeWidth=2;" parent="1" source="gQkO4-co55hAgo9uWCJa-7" target="gQkO4-co55hAgo9uWCJa-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gQkO4-co55hAgo9uWCJa-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;textDirection=rtl;fontSize=15;strokeWidth=2;" parent="1" source="gQkO4-co55hAgo9uWCJa-7" target="gQkO4-co55hAgo9uWCJa-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gQkO4-co55hAgo9uWCJa-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;textDirection=rtl;fontSize=15;strokeWidth=2;" parent="1" source="gQkO4-co55hAgo9uWCJa-7" target="gQkO4-co55hAgo9uWCJa-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gQkO4-co55hAgo9uWCJa-7" value="כתיבת מבחן" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;textDirection=rtl;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="360" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjAFi1lPdT4_HpGg-h6E-3" value="1.1. הגדרת מטרות המבחן" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;textDirection=rtl;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjAFi1lPdT4_HpGg-h6E-5" value="1.2. בחירת סוג המבחן" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;textDirection=rtl;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjAFi1lPdT4_HpGg-h6E-7" value="1.3. קביעת חלוקת הנושאים" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;textDirection=rtl;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjAFi1lPdT4_HpGg-h6E-9" value="1.4. הגדרת זמן המבחן" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;textDirection=rtl;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjAFi1lPdT4_HpGg-h6E-11" value="2.1. ניסוח שאלות ברורות ומובנות" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;textDirection=rtl;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjAFi1lPdT4_HpGg-h6E-13" value="2.2. הצגת תשובות אפשריות" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;textDirection=rtl;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjAFi1lPdT4_HpGg-h6E-15" value="2.3. בדיקת תקינות התשובות" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;textDirection=rtl;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjAFi1lPdT4_HpGg-h6E-17" value="3.1. סידור שאלות לפי נושאים ורמות קושי" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;textDirection=rtl;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjAFi1lPdT4_HpGg-h6E-19" value="3.2. הוספת הוראות ברורות" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;textDirection=rtl;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="460" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjAFi1lPdT4_HpGg-h6E-21" value="3.3. בדיקת פורמט המבחן" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;textDirection=rtl;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="460" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjAFi1lPdT4_HpGg-h6E-23" value="4.1. הגדרת מערכת דירוג" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;textDirection=rtl;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="640" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjAFi1lPdT4_HpGg-h6E-25" value="4.2. ניתוח תוצאות המבחן" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;textDirection=rtl;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjAFi1lPdT4_HpGg-h6E-27" value="4.3. מתן משוב לתלמידים" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;textDirection=rtl;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="640" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
