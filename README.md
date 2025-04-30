@@ -48,5 +48,7 @@ Before development, the team prepared system design documents to understand requ
 
 ### 🧩 Clone the Project:
 ```bash
-git clone https://github.com/adamkiy/GoNature.git
+git clone https://github.com/skyboak/GoNature_Client.git 
+git clone https://github.com/skyboak/GoNature_Server.git 
+
 cd GoNature
