@@ -12,7 +12,7 @@ GoNature is a Java-based application developed using JavaFX for the user interfa
 
 Watch how GoNature works in this short demo video:
 
-[▶️ Watch the Demo](demo/GoNature.mp4)
+[▶️ Watch the Demo]
 
 ## 🎨 Figma Design Prototype
 
