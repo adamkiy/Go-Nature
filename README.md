@@ -14,6 +14,10 @@ Watch how GoNature works in this short demo video:
 
 [▶️ Watch the Demo]
 
+https://github.com/user-attachments/assets/3d2bfecc-bf42-4736-967a-ef8ac955e3c0
+
+
+
 https://github.com/user-attachments/assets/2c188da4-6836-4a71-8edc-520600cbb5e6
 
 
