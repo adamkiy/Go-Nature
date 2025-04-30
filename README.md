@@ -8,6 +8,21 @@ https://github.com/skyboak/GoNature_Client.git server-side
 
 GoNature is a Java-based application developed using JavaFX for the user interface and OCSF (Object Client-Server Framework) for efficient client-server communication. It follows the MVC (Model-View-Controller) architecture to manage park operations in a structured and maintainable way. This system was built as part of an academic course project using Eclipse IDE.
 
+## 🎥 Project Demonstration
+
+Watch how GoNature works in this short demo video:
+
+[▶️ Watch the Demo](demo/GoNature.mp4)
+
+## 🎨 Figma Design Prototype
+
+Check out the UI/UX design in our Figma prototype:
+
+👉 [Open Figma Design](https://www.figma.com/file/4gLnlwcnOLFPSiQ4orlaUo/Untitled?type=design&node-id=0%3A1&mode=design&t=hq0hJ8YnusWIF3oS-1)
+
+![Figma UI Preview](assets/figma_preview.png)
+
+
 ---
 
 ## 🌐 System Architecture
