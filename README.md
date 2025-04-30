@@ -48,7 +48,11 @@ Before development, the team prepared system design documents to understand requ
 
 ### 🧩 Clone the Project:
 ```bash
-git clone https://github.com/skyboak/GoNature_Client.git 
-git clone https://github.com/skyboak/GoNature_Server.git 
-
+# 1. Create a new parent folder
+mkdir GoNature
 cd GoNature
+
+# 2. Clone each repo *inside* that folder
+git clone https://github.com/skyboak/GoNature_Client.git
+git clone https://github.com/skyboak/GoNature_Server.git
+
