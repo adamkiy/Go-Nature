@@ -14,13 +14,17 @@ Watch how GoNature works in this short demo video:
 
 [▶️ Watch the Demo]
 
+https://github.com/user-attachments/assets/2c188da4-6836-4a71-8edc-520600cbb5e6
+
+
+
 ## 🎨 Figma Design Prototype
 
 Check out the UI/UX design in our Figma prototype:
 
 👉 [Open Figma Design](https://www.figma.com/file/4gLnlwcnOLFPSiQ4orlaUo/Untitled?type=design&node-id=0%3A1&mode=design&t=hq0hJ8YnusWIF3oS-1)
 
-![Figma UI Preview](assets/figma_preview.png)
+
 
 
 ---
